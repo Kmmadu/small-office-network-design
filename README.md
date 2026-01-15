@@ -14,3 +14,13 @@ The network supports:
 - Internet access using NAT (PAT)
 
 - A simulated ISP connection
+
+## Network Requirements
+
+- Departmental separation using VLANs
+
+- Centralized routing using Router-on-a-Stick
+
+- Dynamic IP addressing for end devices
+
+- Secure internet access using NAT
