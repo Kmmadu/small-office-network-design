@@ -1,0 +1,32 @@
+# Packet Tracer files
+*.pkt~
+*.pkt.bak
+*.pkz~
+
+# Backup files
+*.bak
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Documentation build artifacts
+*.pdf
+*.docx
