@@ -24,3 +24,8 @@ The network supports:
 - Dynamic IP addressing for end devices
 
 - Secure internet access using NAT
+
+## Network Topology
+
+<img width="1355" height="426" alt="Screenshot from 2026-01-15 16-56-06" src="https://github.com/user-attachments/assets/15a09833-f030-42a8-81f0-c09af5efddf4" />
+
