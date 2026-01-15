@@ -5,12 +5,12 @@ This project simulates a small office network using Cisco Packet Tracer.
 
 The network supports:
 
--Multiple departments using VLANs
+- Multiple departments using VLANs
 
--Inter-VLAN communication
+- Inter-VLAN communication
 
--Automatic IP assignment (DHCP)
+- Automatic IP assignment (DHCP)
 
--Internet access using NAT (PAT)
+- Internet access using NAT (PAT)
 
--A simulated ISP connection
+- A simulated ISP connection
