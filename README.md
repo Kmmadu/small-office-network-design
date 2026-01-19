@@ -27,5 +27,6 @@ The network supports:
 
 ## Network Topology
 
-<img width="1355" height="426" alt="Screenshot from 2026-01-15 16-56-06" src="https://github.com/user-attachments/assets/15a09833-f030-42a8-81f0-c09af5efddf4" />
+<img width="1073" height="602" alt="Screenshot from 2026-01-19 20-10-59" src="https://github.com/user-attachments/assets/f05bf2b4-8dec-4039-bef6-0e8151bc46a6" />
+
 
