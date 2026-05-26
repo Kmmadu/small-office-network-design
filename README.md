@@ -1,7 +1,7 @@
 # Small Office Network Design (Cisco Packet Tracer)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f05bf2b4-8dec-4039-bef6-0e8151bc46a6" 
+  <img src="network_topology.png" 
        alt="Small Office Network Topology" 
        width="100%">
 </p>
@@ -45,3 +45,6 @@ The network supports:
 - DHCP
 - NAT (PAT)
 - WAN Configuration
+
+---
+
