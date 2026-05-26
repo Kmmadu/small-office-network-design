@@ -1,5 +1,9 @@
 # Small Office Network Design (Cisco Packet Tracer)
 
+![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-blue)
+![Networking](https://img.shields.io/badge/Networking-VLANs-green)
+![CCNA](https://img.shields.io/badge/CCNA-Lab-orange)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f05bf2b4-8dec-4039-bef6-0e8151bc46a6" 
        alt="Small Office Network Topology" 
