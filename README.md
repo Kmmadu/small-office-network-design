@@ -1,7 +1,7 @@
 # Small Office Network Design (Cisco Packet Tracer)
 
 <p align="center">
-  <img src="network_topology.png" 
+  <img src="topology/network_topology.png" 
        alt="Small Office Network Topology" 
        width="100%">
 </p>
